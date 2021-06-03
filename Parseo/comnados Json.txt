@@ -8,3 +8,73 @@ db.dropDatabase()
 
 mongoimport --db=prueba --collection=pcollection --file="C:\Users\ulirp\OneDrive - Estudiantes ITCR\Cursos TEC\Primer Semestre 2021\Bases de atos II\Proyectos\TPR3\2021-1 TP3 - Noticias Reuters - MongoDB\Parseo\jsonMiedo2.json"
 
+db.getCollection('reuterCollection').find({"TOPICS":"sugar","PLACES":"indonesia"})
+
+
+> db.reuterCollection.find({"TOPICS":"sugar","PLACES":"indonesia"},{"NEWID":1,"_id":0})
+
+
+db.pcollection.createIndex({"TOPICS":1})
+
+
+
+db.reutersCollection.find({$text:{$search:"\"coffee\" \"colombia\""}})
+
+
+db.reutersCollection.find({$text:{$search:"\"colombia\"   \"coffee\""}},{"NEWID":1,TEXT:{"TITLE":1},"_id":0})
+db.reutersCollection.find({"TOPICS":"sugar","PLACES":"indonesia"},{"NEWID":1,TEXT:{"TITLE":1},"_id":0})
+
+
+*********************************************
+
+var mapFunction = function() {
+    if (this.PLACES != null){
+
+    
+	for (var i = 0; i < this.PLACES.length; i++) {
+		var key = this.PLACES[i];
+		var value = {
+			subtotal: 1//count(this.PLACES[i])
+            
+			}
+
+		/* Función emit para agregar un valor a la clave */
+		emit(key, value);
+		}
+    }
+	};
+
+var reduceFunction = function(id, countObjVals) {
+    reducedVal = { total: 0 };
+
+    for (var i = 0; i < countObjVals.length; i++) {
+        reducedVal.total += countObjVals[i].subtotal;
+        }
+
+    return reducedVal;
+    };
+
+
+db.reuterCollection.mapReduce(
+    mapFunction,
+    reduceFunction,
+    {out:'map1'}
+    );
+
+NO FUNCIONA            db.pcollection.createIndex({"TEXT.BODY":"text"})
+NO FUNCIONA            db.pcollection.createIndex({"TEXT.TITLE":"text"})
+
+db.reuterCollection.createIndex({"TEXT.BODY":"text","TEXT.TITLE":"text"})
+db.reuterCollection.ensureIndex({"TOPICS":1})
+db.reuterCollection.ensureIndex({"PLACES":1})
+db.reuterCollection.ensureIndex({"PEOPLE":1})
+db.reuterCollection.ensureIndex({"ORGS":1})
+db.reuterCollection.ensureIndex({"EXCHANGES":1})
+
+db.reuterCollection.find({"TOPICS":"sugar","PLACES":"indonesia"},{"TEXT.TITLE":1,"NEWID":1,"_id":0})
+
+
+
+
+
+
