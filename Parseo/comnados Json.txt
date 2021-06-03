@@ -1,0 +1,10 @@
+use db_name
+
+db.reuts.insert(json codigo)
+
+db.reuts.find().pretty()
+
+db.dropDatabase()
+
+mongoimport --db=prueba --collection=pcollection --file="C:\Users\ulirp\OneDrive - Estudiantes ITCR\Cursos TEC\Primer Semestre 2021\Bases de atos II\Proyectos\TPR3\2021-1 TP3 - Noticias Reuters - MongoDB\Parseo\jsonMiedo2.json"
+

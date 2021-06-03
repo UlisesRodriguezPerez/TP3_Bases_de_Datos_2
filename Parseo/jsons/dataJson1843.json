@@ -1,0 +1,27 @@
+{
+    "DATE": " 4-MAR-1987 17:21:12.57",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "sorghum"
+    ],
+    "PLACES": [
+        "usa",
+        "israel"
+    ],
+    "NEWID": "1843",
+    "TEXT": {
+        "TITLE": "ISRAEL TENDERS TONIGHT FOR CORN AND/OR SORGHUM",
+        "DATELINE": "    KANSAS CITY, March 4 - ",
+        "BODY": "Israel will tender overnight for\n33,000 long tons of U.S. sorghum and/or 22,000 long tons of\nU.S. corn for April shipment, private export sources said.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "gatt"
+    ],
+    "EXCHENGES": [
+        "nyse"
+    ],
+    "PEOPLE": [
+        "yeutter"
+    ]
+}

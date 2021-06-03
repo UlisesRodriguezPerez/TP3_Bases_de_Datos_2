@@ -1,0 +1,27 @@
+{
+    "DATE": " 9-APR-1987 12:28:56.64",
+    "TOPICS": [
+        "grain",
+        "ship",
+        "wheat",
+        "barley"
+    ],
+    "PLACES": [
+        "uk"
+    ],
+    "NEWID": "15728",
+    "TEXT": {
+        "TITLE": "LONDON GRAIN FREIGHT ENQUIRIES",
+        "DATELINE": "    LONDON, April 9 - ",
+        "BODY": "Antwerp/Libya 5,500 mt bagged flour 14\ndaps 24-27/4.\n    New Orleans/Guanta 9,387 mt bulk hss 3,000/13 days\n25-4/5-5.\n    Naantali/Saudi Red Sea 30,000/35,000 mt barley 4,000/3,000\n20-30/4 or early May.\n    Dunkirk/Xingang 12,000 mt bagged flour 1,500/1,700 13-20/4.\n    Toledo/Seaforth 17,000 mt hss offers 18.50 dlrs four\ndays/8,000 13-15/4.\n    River Plate/Malaysia 20,000/22,000 long tons hss\n2,000/2,000 Apr.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

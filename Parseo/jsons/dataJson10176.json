@@ -1,0 +1,40 @@
+{
+    "DATE": "26-MAR-1987 16:31:27.08",
+    "TOPICS": [
+        "money-supply"
+    ],
+    "PLACES": [
+        "usa",
+        "ussr",
+        "taiwan",
+        "china",
+        "japan",
+        "netherlands",
+        "mexico",
+        "portugal",
+        "canada",
+        "dominican-republic",
+        "panama",
+        "turkey",
+        "thailand",
+        "uk",
+        "south-korea",
+        "venezuela",
+        "israel",
+        "cyprus",
+        "saudi-arabia"
+    ],
+    "NEWID": "10176",
+    "TEXT": {
+        "TITLE": "U.S. M-1 MONEY SUPPLY RISES 1.2 BILLION  DLRS IN MARCH 16 WEEK, FED SAYS\n"
+    },
+    "PEOPLE": [
+        "volcker"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

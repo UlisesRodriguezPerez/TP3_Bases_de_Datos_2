@@ -1,0 +1,27 @@
+{
+    "DATE": " 9-APR-1987 11:51:04.96",
+    "TOPICS": [
+        "grain",
+        "barley",
+        "corn",
+        "wheat"
+    ],
+    "PLACES": [
+        "italy"
+    ],
+    "NEWID": "15676",
+    "TEXT": {
+        "TITLE": "EC GRANTS FREE MARKET BARLEY, MAIZE EXPORTS",
+        "DATELINE": "    LONDON, April 9 - ",
+        "BODY": "The European Commission authorised the\nexport of 65,000 tonnes of free market barley at today's tender\nat a maximum rebate of 138.75 European currency units and\n55,000 tonnes of French maize at 130 Ecus, grain traders here\nsaid.\n    It rejected bids for breadmaking and feed wheat, they said.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "sprinkel"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

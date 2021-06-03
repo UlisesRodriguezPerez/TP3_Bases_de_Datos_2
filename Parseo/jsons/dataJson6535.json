@@ -1,0 +1,31 @@
+{
+    "DATE": "18-MAR-1987 10:57:40.04",
+    "TOPICS": [
+        "trade",
+        "cotton",
+        "iron-steel",
+        "naphtha",
+        "veg-oil",
+        "palm-oil"
+    ],
+    "PLACES": [
+        "pakistan",
+        "sweden"
+    ],
+    "NEWID": "6535",
+    "TEXT": {
+        "TITLE": "PAKISTAN-SWEDISH GOODS EXCHANGE AGREED",
+        "DATELINE": "    ISLAMABAD, March 18 - ",
+        "BODY": "Pakistan and Sweden have signed a\ncommodity exchange agreement for 88 mln dlrs each way, the\nPakistan government announced.\n    Pakistan's exports under the agreement will include raw\ncotton, cotton products, cotton textiles, steel products,\nmolasses, naphtha and fresh and dried fruits.\n    Swedish exports to Pakistan will include medical and\nlaboratory equipment, electrical telecommunication equipment,\ndiesel engine spares, mining and security equipment,\nroad-building and construction machinery, fertilisers and palm\noil.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "icco"
+    ],
+    "PEOPLE": [
+        "reagan"
+    ],
+    "EXCHENGES": [
+        "liffe",
+        "cbt"
+    ]
+}

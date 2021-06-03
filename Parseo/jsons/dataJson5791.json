@@ -1,0 +1,25 @@
+{
+    "DATE": "17-MAR-1987 00:38:58.38",
+    "TOPICS": [
+        "veg-oil",
+        "soy-oil"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "5791",
+    "TEXT": {
+        "TITLE": "U.S. AGRICULTURE SECRETARY WARNS EC ON SOY OIL TAX",
+        "DATELINE": "    CHAMPAIGN, Ill., March 17 - ",
+        "BODY": "U.S. Agriculture Secretary\nRichard Lyng warned the European Community yesterday it will\nface serious retaliation if it enacts a new tax on products\nsuch as U.S. Soybean oil.\n    Speaking at a news conference before a scheduled speech,\nLyng said he did not think the tax, which is still in the\ndiscussion stage, would be approved.\n    He said the U.S. Would take serious retaliatory action\nbecause if implemented, the tax would have a considerable\nimpact on U.S. Farmers.\n REUTER\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "biffex"
+    ],
+    "PEOPLE": [
+        "lyng"
+    ]
+}

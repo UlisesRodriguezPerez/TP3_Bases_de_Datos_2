@@ -1,0 +1,25 @@
+{
+    "DATE": "23-MAR-1987 04:31:04.38",
+    "TOPICS": [
+        "money-fx",
+        "interest"
+    ],
+    "PLACES": [
+        "west-germany"
+    ],
+    "NEWID": "8145",
+    "TEXT": {
+        "TITLE": "BUNDESBANK SETS NEW REPURCHASE TENDER",
+        "DATELINE": "    FRANKFURT, March 23 - ",
+        "BODY": "The Bundesbank set a new tender for a\n28-day securities repurchase agreement, offering banks\nliquidity aid at a fixed rate of 3.80 pct, a central bank\nspokesman said.\n    Banks must make their bids by 1000 GMT tomorrow, and funds\nallocated will be credited to accounts on Wednesday. Banks must\nrepurchase securities pledged on April 22.\n REUTER\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "gatt"
+    ],
+    "PEOPLE": [
+        "bangemann"
+    ]
+}

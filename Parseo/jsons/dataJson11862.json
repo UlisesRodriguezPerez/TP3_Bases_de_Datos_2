@@ -1,0 +1,32 @@
+{
+    "DATE": " 1-APR-1987 08:14:13.32",
+    "TOPICS": [
+        "grain"
+    ],
+    "NEWID": "11862",
+    "TEXT": {
+        "TITLE": "CEREALS MCAS TO BE UNCHANGED NEXT WEEK",
+        "DATELINE": "    BRUSSELS, April 1 - ",
+        "BODY": "Monetary compensatory amounts, MCA's,\nwill be unchanged for the week starting April 6, EC Commission\nofficials said.\n    Cereals MCA's are plus 2.4 points for West Germany and the\nNetherlands, minus two points for Denmark, minus eight points\nfor France, minus nine for Ireland, minus 5.7 for Italy, minus\n25.7 for Britain, minus 44.1 for Greece and minus 10.5 for\nSpain.\n Reuter\n\u0003"
+    },
+    "PLACES": [
+        "west-germany",
+        "netherlands",
+        "denmark",
+        "france",
+        "ireland",
+        "italy",
+        "uk",
+        "greece",
+        "spain"
+    ],
+    "PEOPLE": [
+        "macsharry"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ]
+}

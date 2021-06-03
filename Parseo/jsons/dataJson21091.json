@@ -1,0 +1,24 @@
+{
+    "DATE": "19-OCT-1987 14:30:25.97",
+    "TOPICS": [
+        "oilseed",
+        "soybean",
+        "grain",
+        "wheat",
+        "corn"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "21091",
+    "TEXT": {
+        "TITLE": "U.S. EXPORT INSPECTIONS, IN THOUS BUSHELS,  SOYBEANS 16,333 WHEAT 30,917 CORN 36,781\n"
+    },
+    "PEOPLE": [
+        "reagan",
+        "verity"
+    ],
+    "ORGS": [
+        "opec"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "DATE": " 9-APR-1987 15:45:22.21",
+    "TOPICS": [
+        "grain",
+        "corn"
+    ],
+    "PLACES": [
+        "usa",
+        "ussr",
+        "south-africa",
+        "argentina",
+        "thailand",
+        "japan"
+    ],
+    "NEWID": "15910",
+    "TEXT": {
+        "TITLE": "CORN SUPPLY/DEMAND BY COUNTRY -- USDA",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\ndetailed world supply/demand data for major importers and\nexporters of corn, by country, as follows in mln tonnes --\n    USSR CORN\n                1986/87            1985/86\n           04/09/87 03/09/87  04/09/87 03/09/87\n Start Stocks  N.A.    N.A.     N.A.    N.A.\n Production   12.50   12.50    14.40   14.40\n Imports       8.00    6.00    10.40   10.40\n Domes Use    20.50   19.50    24.40   24.40\n Exports        Nil     Nil      Nil     Nil\n End Stocks    N.A.    N.A.     N.A.    N.A.\n N.A. - Not Available.\n    SOUTH AFRICA CORN, in mln tonnes -- \n               1986/87          1985/86\n         04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  1.20   1.20     1.87   1.87\n Production   8.50   9.50     8.08   8.08\n Imports       Nil    Nil     0.01   0.01\n Domes Use    6.10   6.20     6.00   6.00\n Exports      2.10   3.00     2.75   2.75\n End Stocks   1.50   1.50     1.20   1.20\n    EC-12 CORN, in mln tonnes --\n                1986/87           1985/86\n           04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  5.17    5.28      2.89    2.89\n Production  25.00   25.03     25.70   25.78\n Imports     10.69   10.61     12.82   12.82\n Domes Use   28.20   29.00     29.46   29.60\n Exports      7.91    7.94      6.78    6.61\n End Stocks   4.75    3.98      5.17    5.28\n    ARGENTINA CORN, in mln tonnes --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.52   0.39       0.39   0.39\n Production  10.00  11.00      12.10  12.10\n Imports       Nil    Nil        Nil    Nil\n Domes Use    4.60   4.60       4.60   4.60\n Exports      5.70   6.50       7.37   7.50\n End Stocks   0.22   0.29       0.52   0.39\n    THAILAND CORN, in mln tonnes --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stocks 0.43   0.33      0.11   0.11\n Production   4.10   4.10      5.35   5.15\n Imports       Nil    Nil       Nil    Nil\n Domestic Use 1.55   1.35      1.35   1.25\n Exports      2.80   3.00      3.67   3.67\n End Stocks   0.18   0.08      0.43   0.33\n    JAPAN CORN, in mln tonnes --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  1.24   1.24       1.06   1.06\n Production    Nil    Nil        Nil    Nil\n Imports     15.50  15.44      14.55  14.55\n Domes Use   15.51  15.45      14.37  14.37\n Exports       Nil    Nil        Nil    Nil\n End Stocks   1.24   1.24       1.24   1.24\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

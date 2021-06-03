@@ -1,0 +1,31 @@
+{
+    "DATE": " 5-MAR-1987 00:05:29.46",
+    "TOPICS": [
+        "grain",
+        "wheat"
+    ],
+    "PLACES": [
+        "australia",
+        "china",
+        "egypt",
+        "iraq",
+        "japan",
+        "south-korea",
+        "ussr"
+    ],
+    "NEWID": "1907",
+    "TEXT": {
+        "TITLE": "AUSTRALIAN WHEAT EXPORTS RISE IN FEBRUARY",
+        "DATELINE": "    MELBOURNE, March 5 - ",
+        "BODY": "Australian wheat shipments rose to\n1.33 mln tonnes in February from 1.01 mln in January, an\nAustralian Wheat Board official said.\n    February's shipments were down on the 1.54 mln tonnes\nshipped in February 1986.\n    Cumulative shipments for the first five months of the\nOctober/September wheat year were 6.12 mln tonnes, as against\n6.54 mln a year earlier, the official said.\n    The major destinations in February were: China (419,196\ntonnes), Egypt (301,909), Iraq (142,055), Japan (110,261),\nSouth Korea (100,847) and the Soviet Union (100,056 tonnes).\n REUTER\n\u0003"
+    },
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "EXCHENGES": [
+        "nyse"
+    ],
+    "PEOPLE": [
+        "reagan"
+    ]
+}

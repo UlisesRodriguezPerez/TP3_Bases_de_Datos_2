@@ -1,0 +1,26 @@
+{
+    "DATE": " 3-APR-1987 11:11:47.50",
+    "TOPICS": [
+        "ship"
+    ],
+    "PLACES": [
+        "usa",
+        "panama"
+    ],
+    "NEWID": "12924",
+    "TEXT": {
+        "TITLE": "AGENCY REPORTS 30 SHIPS WAITING AT PANAMA CANAL",
+        "DATELINE": "    WASHINGTON, April 3 - ",
+        "BODY": "The Panama Canal Commission, a U.S.\ngovernment agency, said in its daily operations report that\nthere was a backlog of 30 ships waiting to enter the canal\nearly today. Over the next two days it expects --              \n             4/03  4/04\n                       Due: 36    28\n      Scheduled to Transit: 38    38\n           End-Day Backlog: 28    18\n    Average waiting time tomorrow --\n         Super Tankers  Regular Vessels\n North End:  19 hrs       8 hrs\n South End:  20 hrs      16 hrs\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "imf",
+        "worldbank"
+    ],
+    "PEOPLE": [
+        "stoltenberg"
+    ],
+    "EXCHENGES": [
+        "nymex"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "DATE": "26-MAR-1987 16:31:45.96",
+    "TOPICS": [
+        "money-supply"
+    ],
+    "PLACES": [
+        "usa",
+        "ussr",
+        "taiwan",
+        "china",
+        "japan",
+        "netherlands",
+        "mexico",
+        "portugal",
+        "canada",
+        "dominican-republic",
+        "panama",
+        "turkey",
+        "thailand",
+        "uk",
+        "south-korea",
+        "venezuela",
+        "israel",
+        "cyprus",
+        "saudi-arabia"
+    ],
+    "NEWID": "10177",
+    "TEXT": {
+        "TITLE": "U.S. BANK DISCOUNT BORROWINGS AVERAGE 302 MLN DLRS A DAY IN MARCH 25 WEEK, FED SAYS\n"
+    },
+    "PEOPLE": [
+        "volcker"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

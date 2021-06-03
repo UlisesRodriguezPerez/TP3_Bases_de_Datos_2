@@ -1,0 +1,28 @@
+{
+    "DATE": "18-JUN-1987 11:24:29.40",
+    "TOPICS": [
+        "earn"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18732",
+    "TEXT": {
+        "TITLE": "A.G. EDWARDS INC <AGE> 1ST QTR MAY 31 NET",
+        "DATELINE": "    ST. LOUIS, June 18 -\n    ",
+        "BODY": "Shr 52 cts vs 62 cts\n    Net 10,884,000 vs 12,891,000\n    Revs 133.3 mln vs 128.8 mln\n    Avg shrs 21,017,000 vs 20,845,000\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec",
+        "gatt",
+        "fao"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

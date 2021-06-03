@@ -1,0 +1,24 @@
+{
+    "DATE": " 2-MAR-1987 09:52:30.13",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "wool",
+        "dlr"
+    ],
+    "PLACES": [
+        "new-zealand"
+    ],
+    "NEWID": "425",
+    "TEXT": {
+        "TITLE": "RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY",
+        "DATELINE": "    WELLINGTON, March 2 - ",
+        "BODY": "The volume of contracts traded on the\nNew Zealand Futures Exchange (NZFE) reached a record 25,559\ncontracts in February, the International Commodities Clearing\nHouse (ICCH) said.\n    The previous high was 22,583 contracts in December 1986.\n    The ICCH said the value of the contracts traded in February\nwas 2.90 billion N.Z. Dlrs.\n    The seven contracts currently traded on the NZFE are:\nfive-year government bonds, the share price index, 90-day bank\nbills, 90-day prime commercial paper, the U.S. Dollar,\ncrossbred wool, and wheat.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "PEOPLE": [
+        "hisham-nazer"
+    ]
+}

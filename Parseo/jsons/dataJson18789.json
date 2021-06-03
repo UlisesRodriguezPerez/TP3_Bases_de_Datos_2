@@ -1,0 +1,24 @@
+{
+    "DATE": "18-JUN-1987 12:18:29.55",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18789",
+    "TEXT": {
+        "TITLE": "UNOCAL RAISED CRUDE OIL POSTINGS 50 CTS/BBL, WTI NOW 19\nDLRS/BBL\n"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

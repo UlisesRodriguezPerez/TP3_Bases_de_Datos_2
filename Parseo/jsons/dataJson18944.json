@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 15:05:55.47",
+    "TOPICS": [
+        "strategic-metal"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18944",
+    "TEXT": {
+        "TITLE": "TRW INC <TRW> SETS PACT WITH TEKTRONIX <TEK>",
+        "DATELINE": "    TORRANCE, Calif., June 18 - ",
+        "BODY": "TRW Inc's TRW Componenets\nInternational Inc unit said it set a pact with Tektronix Inc's\nTriQuint Semiconductor unit to jointly supply gallium arsenide\ndevices for space applications.\n    As part of the agreement, the two companyies are working\ntogether to establish procedures to produce class \"S\" (a\nstringent military specification for space use) gallium\narsenide components.\n    TriQuint makes gallilum arsenide integrated circuits.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "itc"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

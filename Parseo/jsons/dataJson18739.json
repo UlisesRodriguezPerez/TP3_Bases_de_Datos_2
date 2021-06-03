@@ -1,0 +1,28 @@
+{
+    "DATE": "18-JUN-1987 11:30:13.02",
+    "TOPICS": [
+        "nat-gas"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18739",
+    "TEXT": {
+        "TITLE": "MOBIL <MOB> HAS NORTH SEA NATURAL GAS FIND",
+        "DATELINE": "    NEW YORK, June 18 - ",
+        "BODY": "Mobil Corp said the 49/28-14 wildcat\nwell in Block 49/28 of the British North Sea flowed 50.6 mln\ncubic feet of natural gas per day from depths of 7,742 to 7,777\nfeet.\n    The company said it has a 23.33 pct interest and other\ninterest holders include Atlantic Richfield Co <ARC>, Sun Co\n<SUN> and Deminex AG 10 pct.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec",
+        "gatt",
+        "fao"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

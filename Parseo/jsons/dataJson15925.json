@@ -1,0 +1,28 @@
+{
+    "DATE": " 9-APR-1987 15:57:32.77",
+    "TOPICS": [
+        "cotton"
+    ],
+    "PLACES": [
+        "usa",
+        "china",
+        "pakistan",
+        "ussr",
+        "japan"
+    ],
+    "NEWID": "15925",
+    "TEXT": {
+        "TITLE": "COTTON SUPPLY/DEMAND BY COUNTRY -- USDA",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\ndetailed world supply/demand data for major importers and\nexporters of cotton, by country, as follows, in mln 480-lb\nbales --\n    CHINA COTTON --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks 16.00  18.30      19.40  19.80\n Production  16.30  16.30      19.00  19.00\n Imports         X      X          X      X\n Domes Use   21.00  17.50      19.50  17.50\n Exports      2.30   2.50       2.90   2.90\n End Stocks   9.05  14.55      16.00  18.30\n X - Less than 5,000 bales\n    PAKISTAN COTTON, in mln 480 bales --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stocks 1.07   1.07      1.05   1.05\n Production   6.10   6.10      5.67   5.67\n Imports         X      X         X      X\n Domestic Use 2.50   2.50      2.34   2.34\n Exports      3.00   3.00      3.15   3.15\n End Stocks   1.51   1.51      1.07   1.07\n X - Less than 5,000 bales.\n    USSR COTTON, in mln 480-lbs bales --\n                1986/87            1985/86\n           04/09/87 03/09/87  04/09/87 03/09/87\n Start Stocks  2.76   2.76       2.62   2.62\n Production   11.20  11.20      12.10  12.10\n Imports       1.00   1.00       0.65   0.65\n Domestic Use  9.70   9.70       9.60   9.60\n Exports       2.80   2.80       3.00   3.00\n End Stocks    2.46   2.46       2.76   2.76\n    JAPAN COTTON, in mln 480-lbs bales --\n                1986/87            1985/86\n           04/09/87 03/09/87  04/09/87 03/09/87\n Start Stocks  0.52   0.52      0.61   0.61\n Production     NIL    NIL       NIL    NIL\n Imports       3.10   3.10      3.05   3.05\n Domestic Use  3.10   3.10      3.15   3.15\n Exports        NIL    NIL       NIL    NIL\n End Stocks    0.52   0.52      0.52   0.52\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

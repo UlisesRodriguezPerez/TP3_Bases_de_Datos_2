@@ -1,0 +1,26 @@
+{
+    "DATE": " 2-APR-1987 08:50:51.72",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "corn"
+    ],
+    "PLACES": [
+        "france"
+    ],
+    "NEWID": "12500",
+    "TEXT": {
+        "TITLE": "FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED",
+        "DATELINE": "    PARIS, April 2 - ",
+        "BODY": "French operators have requested licences\nto export 422,000 tonnes of free market maize, 212,000 tonnes\nof barley and 20,000 tonnes of feed wheat at today's EC tender,\ntrade sources said.\n    For the maize, rebates requested range between 129.25 and\n138.74 European currency units per tonne, for the barley\nbetween 138.94 and 145 Ecus and for feed wheat 141.75 Ecus.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "lawson"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

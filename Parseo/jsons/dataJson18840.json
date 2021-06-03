@@ -1,0 +1,27 @@
+{
+    "DATE": "18-JUN-1987 13:14:40.32",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18840",
+    "TEXT": {
+        "TITLE": "DUPONT UNIT RAISES CRUDE OIL POSTINGS",
+        "DATELINE": "    NEW YORK, June 18 - ",
+        "BODY": "Conoco Inc, a subsidiary of duPont\ndeNemours <DD>, said it raised the contract price it will pay\nfor all grades of crude oil 50 cts a barrel, effective\nyesterday.\n    The increase brings Conoco's posted price for West Texas\nIntermediate to 19.00 dlrs a barrel. The West Texas Sour grade,\nat 34 API, now stands at 18.10 dlrs a barrel. Light Louisiana\nwas also raised 50 cts to 19.35 dlrs barrel.\n    Conoco last changed its crude postings on May 21.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec",
+        "gatt"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

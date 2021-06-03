@@ -1,0 +1,29 @@
+{
+    "DATE": "23-MAR-1987 05:31:38.54",
+    "TOPICS": [
+        "veg-oil",
+        "palm-oil",
+        "rape-oil",
+        "ship"
+    ],
+    "PLACES": [
+        "uk",
+        "india"
+    ],
+    "NEWID": "8159",
+    "TEXT": {
+        "TITLE": "INDIA BOUGHT 24,000 TONNES OF RBD OLEIN AT TENDER",
+        "DATELINE": "    LONDON, March 23 - ",
+        "BODY": "The Indian State Trading Corporation\n(STC) bought four cargoes of rbd palm olein totalling 24,000\ntonnes at its vegetable oil import tender last week, traders\nsaid. Market reports on Friday said the STC had booked two\ncargoes.\n    The business comprised three 6,000 tonne cargoes for June\nat 346 dlrs and 6,000 tonnes for July at 340 dlrs per tonne\ncif.\n    It also secured a 20,000 tonne cargo of optional origin\nrapeseed oil for May 15/Jun 15 shipment at 321 dlrs cif.\n REUTER\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "ec",
+        "gatt"
+    ],
+    "PEOPLE": [
+        "concepcion"
+    ]
+}

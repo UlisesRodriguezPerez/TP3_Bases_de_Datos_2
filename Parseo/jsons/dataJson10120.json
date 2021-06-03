@@ -1,0 +1,27 @@
+{
+    "DATE": "26-MAR-1987 15:23:02.52",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "corn"
+    ],
+    "PLACES": [
+        "usa",
+        "china"
+    ],
+    "NEWID": "10120",
+    "TEXT": {
+        "TITLE": "CHINA SWITCHES U.S. WHEAT TO 1987/88 FROM 86/87",
+        "DATELINE": "    WASHINGTON, March 26 - ",
+        "BODY": "China has switched purchases of U.S.\nwheat totaling 60,000 tonnes from the 1986/87 season, which\nbegan June 1, to 1987/88 season delivery, the U.S. Agriculture\nDepartment said.\n    The department said outstanding wheat sales to China for\nthe current season amount to 90,000 tonnes and sales for\ndelivery in the 1987/88 season amount to 910,000 tonnes.\n    Total corn commitments for the 1986/87 season total\n1,015,800 tonnes, the department said.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "leigh-pemberton"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ],
+    "ORGS": [
+        "ico-coffee"
+    ]
+}

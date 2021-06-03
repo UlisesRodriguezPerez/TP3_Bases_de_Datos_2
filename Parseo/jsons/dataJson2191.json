@@ -1,0 +1,23 @@
+{
+    "DATE": " 5-MAR-1987 11:42:35.18",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "barley"
+    ],
+    "PLACES": [
+        "belgium"
+    ],
+    "NEWID": "2191",
+    "TEXT": {
+        "TITLE": "EC REJECTS WHEAT EXPORT BIDS, GRANTS BARLEY",
+        "DATELINE": "    BRUSSELS, March 5 - ",
+        "BODY": "The European Community's cereal\nmanagement committee rejected all bids to export free market\nsoft wheat at today's weekly tender, traders said.\n    The committee awarded 123,000 tonnes of free market barley\nexport licences at a maximum export refund of 138.75 Ecus per\ntonne.\n\u0003"
+    },
+    "PEOPLE": [
+        "boesky"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

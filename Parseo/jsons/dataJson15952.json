@@ -1,0 +1,29 @@
+{
+    "DATE": " 9-APR-1987 16:16:57.22",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "corn",
+        "barley",
+        "oat",
+        "sorghum"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "15952",
+    "TEXT": {
+        "TITLE": "NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\nreported the farmer-owned reserve national five-day average\nprice through April 8 as follows (Dlrs/Bu-Sorghum Cwt) -\n         Natl   Loan           Release   Call\n         Avge   Rate-X  Level    Price  Price\n Wheat   2.62   2.40       IV     4.65     --\n                            V     4.65     --\n                           VI     4.45     --\n Corn    1.38   1.92       IV     3.15   3.15\n                            V     3.25     --\n X - 1986 Rates.\n          Natl   Loan          Release   Call\n          Avge   Rate-X  Level   Price  Price\n Oats     1.58   0.99        V    1.65    -- \n Barley   1.55   1.56       IV    2.55   2.55\n                             V    2.65    -- \n Sorghum  2.54   3.25-Y     IV    5.36   5.36\n                             V    5.54    -- \n    Reserves I, II and III have matured. Level IV reflects\ngrain entered after Oct 6, 1981 for feedgrain and after July\n23, 1981 for wheat. Level V wheat/barley after 5/14/82,\ncorn/sorghum after 7/1/82. Level VI covers wheat entered after\nJanuary 19, 1984.  X-1986 rates. Y-dlrs per CWT (100 lbs).\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

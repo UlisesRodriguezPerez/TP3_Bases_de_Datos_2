@@ -1,0 +1,26 @@
+{
+    "DATE": "16-JUN-1987 01:34:28.89",
+    "TOPICS": [
+        "copper"
+    ],
+    "PLACES": [
+        "australia"
+    ],
+    "PEOPLE": [
+        "keating"
+    ],
+    "NEWID": "18430",
+    "TEXT": {
+        "TITLE": "MIM RAISES COPPER PRICES BY 20 DOLLARS",
+        "DATELINE": "    BRISBANE, June 16 - ",
+        "BODY": "Mount Isa Mines Ltd <MIMA.S> said it\nraised its copper prices by 20 dlrs to 2,220 dlrs per tonne for\ncathodes and to 2,387.50 dlrs per tonne for standard rods,\neffective June 17.\n REUTER\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

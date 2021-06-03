@@ -1,0 +1,48 @@
+{
+    "DATE": " 1-APR-1987 08:42:21.74",
+    "TOPICS": [
+        "wheat",
+        "barley",
+        "corn",
+        "rapeseed",
+        "grain",
+        "oilseed",
+        "ship"
+    ],
+    "NEWID": "11885",
+    "TEXT": {
+        "TITLE": "FRENCH CEREAL EXPORTS THROUGH ROUEN UP IN MARCH",
+        "DATELINE": "    PARIS, April 1 - ",
+        "BODY": "French cereals exports through Rouen port\nrose to 751,563 tonnes between March 1 and March 25 from\n603,413 tonnes in the same 1986 period, freight sources said.\n    The Soviet Union took 263,051 tonnes of wheat and barley,\nSaudi Arabia 90,944 tonnes barley, China 87,259 wheat, Algeria\n64,896 wheat, Bangladesh 30,000 wheat, Morocco 27,500 maize,\nGreece 26,700 wheat and barley, Spain 25,124 wheat, Poland\n24,683 wheat, Brazil 24,082 wheat, Italy 21,659 wheat, Cyprus\n20,700 wheat and maize, Israel 16,500 maize and the U.K. 8,797\ntonnes wheat.\n    Six ships are loading 120,000 tonnes of wheat, the sources\nsaid. They include 30,000 tonnes for China, 31,000 for the\nSoviet Union, 25,000 for Turkey, and 35,000 for Italy. Another\nship is loading 17,000 tonnes of colza for the Soviet Union.\n    Another 12 ships should arrive to load 344,000 tonnes of\ncereals by the end of the week. Six are to load 186,000 tonnes\nof wheat for the Soviet Union. Two will load 60,000 tonnes of\nbarley for Saudi Arabia, one 28,000 tonnes of wheat for China,\ntwo 25,000 tonnes of wheat each for Algeria and Turkey and one\n20,000 tonnes of wheat for Italy. Another is expected to load\n20,000 tonnes of colza for the Soviet Union.\n    Flour exports through Rouen rose to 23,457 tonnes in the 25\nday period from 5,500 in the equivalent 1986 period, the\nsources said.\n    Sudan took 19,327 tonnes and west coast Africa 4,130.\n    Four ships are currently loading 32,000 tonnes, including\n24,000 for Egypt, 6,000 for Tanzania and 2,000 for Mauritania.\n    A ship is expected later this week to load 12,000 tonnes\nfor China.\n Reuter\n\u0003"
+    },
+    "PLACES": [
+        "france",
+        "ussr",
+        "saudi-arabia",
+        "china",
+        "algeria",
+        "bangladesh",
+        "morocco",
+        "greece",
+        "brazil",
+        "italy",
+        "cyprus",
+        "israel",
+        "uk",
+        "turkey",
+        "spain",
+        "poland",
+        "sudan",
+        "egypt",
+        "mauritania"
+    ],
+    "PEOPLE": [
+        "macsharry"
+    ],
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ]
+}

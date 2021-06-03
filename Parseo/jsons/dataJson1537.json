@@ -1,0 +1,25 @@
+{
+    "DATE": " 4-MAR-1987 11:22:09.85",
+    "TOPICS": [
+        "sugar"
+    ],
+    "PLACES": [
+        "belgium",
+        "uk",
+        "netherlands",
+        "denmark",
+        "west-germany"
+    ],
+    "NEWID": "1537",
+    "TEXT": {
+        "TITLE": "EC COMMISSION DETAILS SUGAR TENDER",
+        "DATELINE": "    BRUSSELS, March 4 - ",
+        "BODY": "The European Commission confirmed it\nauthorised the export of 60,500 tonnes of current series white\nsugar at a maximum rebate of 43.147 European Currency Units\n(ECUs) per 100 kilos.\n    Out of this, traders in the U.K. Received 43,500 tonnes, in\nthe Netherlands 12,000, in Denmark 4,000 and in West Germany\n1,000 tonnes.\n REUTER\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cbt"
+    ]
+}

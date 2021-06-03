@@ -1,0 +1,25 @@
+{
+    "DATE": " 5-MAR-1987 12:48:44.25",
+    "TOPICS": [
+        "grain",
+        "corn"
+    ],
+    "PLACES": [
+        "france",
+        "morocco",
+        "israel"
+    ],
+    "NEWID": "2264",
+    "TEXT": {
+        "TITLE": "EC OPENS SPECIAL REBATE FOR MAIZE - PARIS TRADE",
+        "DATELINE": "    PARIS, March 5 - ",
+        "BODY": "The EC Commission decided to open a\nspecial daily export rebate today for maize exports to Morocco,\nIsrael, Canary Islands and zone 5c (Sub-Saharan Africa), trade\nsources said here.\n    The rebate was set at 153 European currency units per tonne\nfor March and 133 for April through July.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "duisenberg",
+        "ruding"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

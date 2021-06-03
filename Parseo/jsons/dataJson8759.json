@@ -1,0 +1,31 @@
+{
+    "DATE": "24-MAR-1987 10:22:40.06",
+    "TOPICS": [
+        "grain",
+        "rice",
+        "corn",
+        "cotton",
+        "wheat",
+        "sorghum",
+        "barley",
+        "oat"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "8759",
+    "TEXT": {
+        "TITLE": "RICE, CORN LEAD 1987 U.S. FARM PAYMENTS - USDA",
+        "DATELINE": "    WASHINGTON, March 24 - ",
+        "BODY": "Rice and corn farmers will receive\nthe largest payments from the U.S. government during 1987 if\nthe subsidies are calculated per planted acre, the U.S.\nAgriculture Department said.\n    USDA said government outlays to rice farmers in 1987 are\nexpected to reach 403 dlrs per acre planted, followed by corn\nat 135 dlrs per planted acre. Government outlays include mainly\ndeficiency payments and price support loans.\n    On a per acre basis, cotton payments will reach 73.24 dlrs\nin 1987, wheat 60.30 dlrs, sorghum 54.38 dlrs, barley 27.41\ndlrs and oats 2.31 dlrs, USDA said.\n    USDA estimates farm subsidies will reach 25.3 billion dlrs\nin 1987. The figures were given by USDA officials at a Senate\nAgriculture Appropriations hearing yesterday.\n Reuter\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "worldbank"
+    ],
+    "PEOPLE": [
+        "conable"
+    ]
+}

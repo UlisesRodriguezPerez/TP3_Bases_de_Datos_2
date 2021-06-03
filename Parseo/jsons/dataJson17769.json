@@ -1,0 +1,26 @@
+{
+    "DATE": " 1-JUN-1987 15:36:08.46",
+    "TOPICS": [
+        "grain",
+        "barley"
+    ],
+    "PLACES": [
+        "usa",
+        "saudi-arabia"
+    ],
+    "PEOPLE": [
+        "reagan"
+    ],
+    "NEWID": "17769",
+    "TEXT": {
+        "TITLE": "BARLEY SOLD TO SAUDI ARABIA  - USDA",
+        "DATELINE": "    WASHINGTON, June 1 - ",
+        "BODY": "Private exporters reported sales of\n150,000 tonnes of barley to Saudi Arabia for delivery in the\n1987/88 season, the U.S. Agriculture Deapartment said.\n    The 1987/88 season for barley begins today.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

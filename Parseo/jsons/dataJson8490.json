@@ -1,0 +1,24 @@
+{
+    "DATE": "23-MAR-1987 15:55:34.50",
+    "TOPICS": [
+        "earn"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "8490",
+    "TEXT": {
+        "TITLE": "VARLEN CORP <VRLN> DECLARES QTLY DIVIDEND",
+        "DATELINE": "    NAPERVILLE, Ill., March 23 -\n    ",
+        "BODY": "Qtly div 15 cts vs 15 cts prior\n    Pay April 30\n    Record April 15\n Reuter\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ]
+}

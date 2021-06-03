@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 11:00:03.69",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "canada"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18707",
+    "TEXT": {
+        "TITLE": "PERMIAN RAISES CRUDE OIL POSTINGS 50 CTS\n A BBL, WTI TO 19 DLRS\n"
+    },
+    "ORGS": [
+        "ec",
+        "gatt",
+        "fao"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

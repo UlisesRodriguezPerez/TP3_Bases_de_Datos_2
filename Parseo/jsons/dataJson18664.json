@@ -1,0 +1,24 @@
+{
+    "DATE": "18-JUN-1987 10:00:07.10",
+    "TOPICS": [
+        "income"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18664",
+    "TEXT": {
+        "TITLE": "U.S. PERSONAL INCOME ROSE 0.2 PCT IN MAY, SPENDING UP 0.1\nPCT\n"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

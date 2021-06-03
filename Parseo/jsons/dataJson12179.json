@@ -1,0 +1,22 @@
+{
+    "DATE": " 1-APR-1987 14:00:24.37",
+    "TOPICS": [
+        "ship"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "12179",
+    "TEXT": {
+        "TITLE": "AGENCY REPORTS 41 SHIPS WAITING AT PANAMA CANAL",
+        "DATELINE": "    WASHINGTON, April 1 - ",
+        "BODY": "The Panama Canal Commission, a U.S.\ngovernment agency, said in its daily operations report that\nthere was a backlog of 41 ships waiting to enter the canal\nearly today. Over the next two days it expects --              \n             4/01  4/02\n                       Due: 34    34\n      Scheduled to Transit: 41    39\n           End-Day Backlog: 34    29\n\n    Average waiting time tomorrow --\n         Super Tankers  Regular Vessels\n North End:  25 hrs      11 hrs\n South End:  24 hrs      31 hrs\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "PEOPLE": [
+        "chirac",
+        "delors"
+    ]
+}

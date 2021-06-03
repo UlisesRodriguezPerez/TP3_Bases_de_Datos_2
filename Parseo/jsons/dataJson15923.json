@@ -1,0 +1,28 @@
+{
+    "DATE": " 9-APR-1987 15:56:51.82",
+    "TOPICS": [
+        "veg-oil",
+        "soy-oil"
+    ],
+    "PLACES": [
+        "usa",
+        "argentina",
+        "brazil",
+        "india"
+    ],
+    "NEWID": "15923",
+    "TEXT": {
+        "TITLE": "SOYBEAN OIL SUPPLY/DEMAND BY COUNTRY -- USDA",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\ndetailed world supply/demand data for major importers and\nexporters of soybean oil, by country, in mln tonnes --\n    ARGENTINA --\n               1986/87            1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.10   0.10      0.10   0.10\n Production   0.77   0.77      0.73   0.73\n Imports       NIL    NIL       NIL    NIL\n Domes Use    0.10   0.10      0.11   0.11\n Exports      0.66   0.66      0.63   0.63\n End Stocks   0.10   0.10      0.10   0.10\n    BRAZIL SOYBEAN OIL, in mln tonnes --\n               1986/87            1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.32   0.28      0.24   0.24\n Production   2.52   2.51      2.35   2.35\n Imports      0.15   0.15      0.12   0.12\n Domes Use    2.00   2.00      1.94   1.98\n Exports      0.65   0.65      0.45   0.45\n End Stocks   0.34   0.28      0.32   0.28\n    EC-12 SOYBEAN OIL, in mln tonnes --\n               1986/87            1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.22   0.22      0.23   0.22\n Production   2.32   2.33      2.26   2.26\n Imports      0.44   0.44      0.50   0.50\n Domes Use    1.46   1.45      1.38   1.38\n Exports      1.29   1.30      1.39   1.39\n End Stocks   0.23   0.23      0.22   0.22\n    INDIA SOYBEAN OIL --\n               1986/87            1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.12   0.07      0.21   0.21\n Production   0.17   0.17      0.15   0.15\n Imports      0.35   0.35      0.25   0.25\n Domes Use    0.52   0.52      0.49   0.54\n Exports       NIL    NIL       NIL    NIL\n End Stocks   0.12   0.07      0.12   0.07\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

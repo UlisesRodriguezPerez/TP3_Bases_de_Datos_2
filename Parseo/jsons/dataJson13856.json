@@ -1,0 +1,25 @@
+{
+    "DATE": " 7-APR-1987 10:15:14.72",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "corn",
+        "sorghum",
+        "barley"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "13856",
+    "TEXT": {
+        "TITLE": "GRAIN RESERVE HOLDINGS BREAKDOWN",
+        "DATELINE": "    WASHINGTON, April 7 - ",
+        "BODY": "The U.S. Agriculture Department gave\nthe following breakdown of grain remaining in the farmer-owned\ngrain reserve as of April 1, in mln bushels, by reserve number\n--\n             I    II  III    IV      V      VI\n Wheat      nil  nil  0.1   0.3    10.5  479.7\n Corn        --   --   --   4.1 1,231.9     --\n Sorghum-x   --   --   --   0.1    38.8     --\n Barley      --   --   --   0.1    73.9     --\n x - mln cwts. Note - USDA says above totals may not match\ntotal in reserve numbers.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "volcker"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

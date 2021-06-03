@@ -1,0 +1,26 @@
+{
+    "DATE": "29-JUN-1987 14:30:17.62",
+    "TOPICS": [
+        "oilseed",
+        "soybean",
+        "grain",
+        "wheat",
+        "corn"
+    ],
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "NEWID": "19821",
+    "TEXT": {
+        "TITLE": "U.S. EXPORT INSPECTIONS, IN THOUS BUSHELS,\nSOYBEANS 8,392 WHEAT 33,641 CORN 33,728\n                             \n"
+    },
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "dauster"
+    ],
+    "EXCHENGES": [
+        "nasdaq"
+    ]
+}

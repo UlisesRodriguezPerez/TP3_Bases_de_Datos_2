@@ -1,0 +1,28 @@
+{
+    "DATE": "30-MAR-1987 11:56:34.65",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "corn",
+        "oilseed",
+        "soybean"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "10882",
+    "TEXT": {
+        "TITLE": "TRADE SEES U.S. CORN EXPORTS UP, WHEAT/BEANS OFF",
+        "DATELINE": "    CHICAGO, March 30 - ",
+        "BODY": "Grain traders and analysts expect lower\nwheat and soybean exports and higher corn exports than a year\nago in the USDA's export inspection report today.\n    Corn export guesses ranged from 27.0 mln to 32.0 mln\nbushels, compared with the 27.6 mln inspected last week and\n20.5 mln a year ago.\n    Soybean export guesses ranged from 14.0 mln to 16.0 mln, up\nfrom the 13.4 mln inspected last week but below the 25.5 mln\nreported a year ago.\n    Wheat estimates ranged from 11.0 mln to 14.0 mln bushels,\ncompared with 12.0 mln reported last week and 18.3 mln a year\nago.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "nakasone"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ],
+    "ORGS": [
+        "ico-coffee"
+    ]
+}

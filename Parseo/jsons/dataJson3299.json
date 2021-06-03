@@ -1,0 +1,25 @@
+{
+    "DATE": " 9-MAR-1987 14:32:16.60",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat",
+        "oilseed"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "3299",
+    "TEXT": {
+        "TITLE": "U.S. EXPORT INSPECTIONS, IN THOUS BUSHELS  SOYBEANS 18,616 WHEAT 16,760 CORN 25,193\n"
+    },
+    "ORGS": [
+        "bis"
+    ],
+    "PEOPLE": [
+        "reagan"
+    ],
+    "EXCHENGES": [
+        "cbt"
+    ]
+}

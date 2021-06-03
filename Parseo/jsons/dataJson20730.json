@@ -1,0 +1,23 @@
+{
+    "DATE": "20-OCT-1987 16:34:22.10",
+    "TOPICS": [
+        "crude",
+        "gas"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "20730",
+    "TEXT": {
+        "TITLE": "API SAYS DISTILLATES OFF 1.95 MLN BARRELS, GASOLINE OFF 3.98 MLN, CRUDE UP 2.42 MLN\n"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "volcker"
+    ],
+    "EXCHENGES": [
+        "amex"
+    ]
+}

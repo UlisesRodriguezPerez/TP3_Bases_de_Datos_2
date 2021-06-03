@@ -1,0 +1,28 @@
+{
+    "DATE": "11-MAR-1987 16:30:02.69",
+    "TOPICS": [
+        "veg-oil",
+        "sun-oil",
+        "corn-oil",
+        "rape-oil"
+    ],
+    "PLACES": [
+        "usa",
+        "mexico"
+    ],
+    "NEWID": "3950",
+    "TEXT": {
+        "TITLE": "MEXICO VEG OIL TAX NOT AIMED AT SUNFLOWER--USDA",
+        "DATELINE": "    WASHINGTON, March 11 - ",
+        "BODY": "The Mexican Secretariat of Commerce\nhas told the U.S. that recent implementation of a 10 pct ad\nvalorem tariff for fixed vegetable oils, fluid or solid, crude,\nrefined or purified, was not targeted at sunflower oil, the\nU.S. Agriculture Department said.\n    In its World Production and Trade Report, the department\nsaid the increase in tariffs on this category which includes\nsunflower, corn and rapeseed oils, was a reaction to importers\nusing basket categories to avoid paying tariffs on specific\nhigh-tariff products.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "sarney"
+    ],
+    "EXCHENGES": [
+        "cbt"
+    ]
+}

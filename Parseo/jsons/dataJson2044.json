@@ -1,0 +1,24 @@
+{
+    "DATE": " 5-MAR-1987 10:02:53.85",
+    "TOPICS": [
+        "grain",
+        "wheat",
+        "barley",
+        "corn"
+    ],
+    "PLACES": [
+        "france"
+    ],
+    "NEWID": "2044",
+    "TEXT": {
+        "TITLE": "FRENCH FREE MARKET CEREAL EXPORT BIDS DETAILED",
+        "DATELINE": "    PARIS, March 5 - ",
+        "BODY": "French operators have requested licences\nto export 40,000 tonnes of free market feed wheat, 32,500\ntonnes of soft bread wheat, 375,000 tonnes of barley and\n465,000 tonnes of maize at today's European Community tender,\ntrade sources here said.\n    Rebates requested ranged between 134 and 136.50 European\ncurrency units (Ecus) a tonne for the feed wheat, 137.39 and\n141.50 Ecus a tonne for the bread wheat, 137.93 and 142.95 Ecus\nfor the barley and 133.75 and 140.25 Ecus for the maize.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "yeutter"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

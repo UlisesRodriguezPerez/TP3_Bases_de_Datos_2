@@ -1,0 +1,25 @@
+{
+    "DATE": " 1-APR-1987 16:51:00.08",
+    "TOPICS": [
+        "grain",
+        "ship"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "12327",
+    "TEXT": {
+        "TITLE": "GRAIN SHIPS LOADING AT PORTLAND",
+        "DATELINE": "    PORTLAND, April 1 - ",
+        "BODY": "There were five grain ships loading and\nthree ships were waiting to load at Portland, according to the\nPortland Merchants Exchange.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "herrington"
+    ],
+    "EXCHENGES": [
+        "comex"
+    ]
+}

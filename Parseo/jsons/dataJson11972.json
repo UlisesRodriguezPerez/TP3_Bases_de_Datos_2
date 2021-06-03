@@ -1,0 +1,30 @@
+{
+    "DATE": " 1-APR-1987 10:44:00.35",
+    "TOPICS": [
+        "money-fx",
+        "dlr",
+        "stg",
+        "skr",
+        "nkr",
+        "dkr",
+        "dmk"
+    ],
+    "NEWID": "11972",
+    "TEXT": {
+        "TITLE": "FINLAND REVISES CURRENCY BASKET",
+        "DATELINE": "    HELSINKI, April 1 - ",
+        "BODY": "The Bank of Finland said it has revised\nthe weightings in its currency basket with effect from today.\nWeightings  match the respective country's share in Finland's\nforeign trade.\n    Weights in percentages compared with former weights.\n    Dollar  9.0 (8.8)\n    Sterling 14.3 (13.8)\n    Swedish crown 20.4 (20.6)\n    Norwegian crown 5.2 (5.2)\n    Danish crown 5.2 (5.3)\n    German mark 19.3 (19.6)\nREUTER^M\n\u0003"
+    },
+    "PLACES": [
+        "finland"
+    ],
+    "PEOPLE": [
+        "poehl"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "DATE": "16-MAR-1987 14:38:38.62",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat",
+        "soybean",
+        "oilseed",
+        "barley",
+        "sorghum",
+        "cotton",
+        "rice"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "5610",
+    "TEXT": {
+        "TITLE": "USDA DETAILS CONSERVATION CROP ENROLLMENT",
+        "DATELINE": "    WASHINGTON, March 16 - ",
+        "BODY": "Farmers enrolled over 6.5 mln acres\nof program crops in the latest conservation reserve program\nsignup and around four mln acres of non-program crops,\nAgriculture Department conservation specialists said.\n    Soybean acreage amounted to less than two mln acres of the\nnon-program crop acreage enrolled, a USDA analyst said. Heavy\nenrollment of non-base acreage in wheat states, of which a big\npercentage would be fallow and non-soybean land, accounted for\na large portion of the non-program acreage, the analyst said.\n    Wheat and corn acreage comprised slightly over 40 pct of\nthe total 10,572,402 acres accepted into the ten-year program.\n    USDA analysts gave the following enrollment breakdown:\n    -- wheat  2,615,140 acres\n    -- corn   1,894,764 acres\n    -- barley   705,888 acres\n    -- sorghum  585,552 acres\n    -- cotton   417,893 acres\n    -- rice       2,035 acres\n    -- peanuts      611 acres\n    -- tobacco      285 acres\n    -- total program crops  6,512,700 acres\n    -- total nonprogram     4,059,702 acres\n    -- total enrollment    10,572,402 acres\n    USDA analysts are currently working on a complete state\nbreakdown of crop acreage enrollment and should have it ready\nfor publication later this week, they said.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "icco"
+    ],
+    "EXCHENGES": [
+        "biffex"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ]
+}

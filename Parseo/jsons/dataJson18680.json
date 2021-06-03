@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 10:27:06.33",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa",
+        "indonesia",
+        "turkey"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18680",
+    "TEXT": {
+        "TITLE": "PHILLIPS RAISES CRUDE OIL POSTED PRICES 50 CTS/BBL\nEFFECTIVE YESTERDAY, WTI NOW 19 DLRS.\n"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

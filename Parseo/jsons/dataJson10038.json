@@ -1,0 +1,24 @@
+{
+    "DATE": "26-MAR-1987 12:50:57.93",
+    "TOPICS": [
+        "gas"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "10038",
+    "TEXT": {
+        "TITLE": "(CORRECTED) - MOBIL <MOB> TO UPGRADE REFINERY UNIT",
+        "DATELINE": "    NEW YORK, March 26 - ",
+        "BODY": "Mobil Corp said it will spend over 30\nmln dlrs to upgrade a gasoline-producing unit at its Beaumont,\nTexas, refinery.\n    It said the unit is a catalytic reformer, which converts\nlow-octane components of gasoline into high-octane components\nfor use in Super Unleaded gasoline.\n    The company said the modernization will allow the unit to\nregenerate catalysts on a continuous basis without shutdown.\nCurrently, it must be shut twice a year.  The unit produces\n46,000 barrels of gasoline components a day.  Construction will\nstart late this year, with completion set for mid-1989.\n    (Correcting unit's output to barrels/day from barrels/year)\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "thatcher"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ],
+    "ORGS": [
+        "ec"
+    ]
+}

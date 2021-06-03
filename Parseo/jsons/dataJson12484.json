@@ -1,0 +1,29 @@
+{
+    "DATE": " 2-APR-1987 08:23:16.95",
+    "TOPICS": [
+        "copper",
+        "lead",
+        "zinc",
+        "silver",
+        "nickel",
+        "alum"
+    ],
+    "PLACES": [
+        "uk"
+    ],
+    "NEWID": "12484",
+    "TEXT": {
+        "TITLE": "LME DETAILS MARCH 1987 TURNOVER",
+        "DATELINE": "    LONDON, April 2 - ",
+        "BODY": "The London Metal Exchange, LME, issued\nturnovers for March 1987, with figures for corresponding period\n1986 in brackets.\n    All in tonnes except Silver which in troy ounces.\n    Copper higher grade nil (2,526,425), Standard cathodes nil\n(6,325), Grade A 2,429,200 (nil), Standard Copper 17,050 (nil),\nLead 443,850 (538,750), Zinc High grade 598,550 (304,825),\nSilver large 10,350,000 (17,400,000), Small nil (2,000),\nAluminium 1,693,375 (1,301,850), Nickel 62,004 (65,040).\n    Cumulative figures for January-March were as follows -\nCopper higher grade nil (7,703,625), Standard cathodes nil\n(24,700), Grade A 6,455,525 (nil), Standard Copper 62,075\n(nil), Lead 1,567,000 (1,979,750), Zinc High grade 1,746,675\n(1,356,400), Silver large 41,770,000 (65,620,000), Small nil\n(8,000), Aluminium 4,984,650 (4,974,950), Nickel 199,944\n(179,328).\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ico-coffee"
+    ],
+    "PEOPLE": [
+        "lawson"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

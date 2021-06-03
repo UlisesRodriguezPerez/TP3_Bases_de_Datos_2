@@ -1,0 +1,26 @@
+{
+    "DATE": "23-MAR-1987 07:40:02.28",
+    "TOPICS": [
+        "ship"
+    ],
+    "PLACES": [
+        "uk",
+        "iran"
+    ],
+    "NEWID": "8197",
+    "TEXT": {
+        "TITLE": "IRANIAN TANKER ATTACKED OVER WEEKEND - LLOYDS",
+        "DATELINE": "    LONDON, March 23 - ",
+        "BODY": "The Iranian steam tanker Avaj, 316,379\ntonnes dw, was attacked and hit at 1715 hours on March 21,\nLloyds Shipping Intelligence service reported.\n    One person was killed. The tanker is owned by the National\nIranian Tanker Co.\n REUTER\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "gatt",
+        "ec"
+    ],
+    "PEOPLE": [
+        "james-baker"
+    ]
+}

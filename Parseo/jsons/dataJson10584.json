@@ -1,0 +1,30 @@
+{
+    "DATE": "27-MAR-1987 13:33:30.85\u0005\u0005\u0005C T",
+    "TOPICS": [
+        "cocoa"
+    ],
+    "PLACES": [
+        "uk",
+        "malaysia",
+        "brazil",
+        "cameroon",
+        "ghana",
+        "ivory-coast",
+        "togo"
+    ],
+    "NEWID": "10584",
+    "TEXT": {
+        "TITLE": "COCOA BUFFER DIFFERENTIALS DETAILED",
+        "DATELINE": "    LONDON, March 27 - ",
+        "BODY": "The International Cocoa Organization\n(ICCO) council agreed standard price differentials for\ndifferent origin cocoas to form part of the buffer stock buying\nand selling procedure, consumer delegates said.\n    The buffer stock manager will accept offers for different\norigin cocoas according to a sliding scale of price\ndifferentials, under which Ghana cocoa will be pegged at a 137\nstg premium to Malaysian.\n    Thus, if the buffer stock manager was buying cocoa based on\na Malaysian price of 1,200 stg a tonne, he would accept Ghana\noffers up to 1,337 stg.\n    Differentials were fixed as follows,\n Country       Differential stg/tonne\n Malaysia           0\n Brazil            55\n Ivory Coast       67\n Cameroun          77\n Nigeria          120\n Togo             130\n Ghana            137\n    Nigeria's differential is on \"landed weight\" terms. Shipping\nweight terms will be accepted at a 15 stg discount to this\nrate.\n Reuter\n\u0003"
+    },
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "biffex"
+    ],
+    "ORGS": [
+        "icco"
+    ]
+}

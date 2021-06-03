@@ -1,0 +1,26 @@
+{
+    "DATE": "31-MAR-1987 12:00:52.70",
+    "TOPICS": [
+        "grain",
+        "wheat"
+    ],
+    "NEWID": "11445",
+    "TEXT": {
+        "TITLE": "FRENCH MARKET TALK OF SYRIAN WHEAT PURCHASES",
+        "DATELINE": "    PARIS, March 31 - ",
+        "BODY": "Syria may have bought 80,000 tonnes of\nFrench soft wheat, some traders here said.\n    But others said it may instead have given payment\nguarantees to allow for the shipping of an old contract to go\nahead.\n    Syria has bought around 320,000 tonnes of soft French wheat\nsince the beginning of the 1986/87 campaign, of which only\n121,000 tonnes had been exported by the end of last month.\n    The country also bought around 30,000 tonnes of EC soft\nwheat 12 days ago at 80 to 81 dlrs a tonne, fob, they said.\n Reuter\n\u0003"
+    },
+    "PLACES": [
+        "france",
+        "syria"
+    ],
+    "PEOPLE": [
+        "james-baker"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

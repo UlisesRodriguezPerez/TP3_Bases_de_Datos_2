@@ -1,0 +1,26 @@
+{
+    "DATE": "19-MAR-1987 11:43:33.67",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat",
+        "barley"
+    ],
+    "PLACES": [
+        "usa",
+        "italy"
+    ],
+    "NEWID": "7205",
+    "TEXT": {
+        "TITLE": "EC GRANTS 25,000 TONNES BARLEY, 80,000  FRENCH MAIZE LICENCES, REJECTS WHEAT - TRADERS\n"
+    },
+    "PEOPLE": [
+        "herrington"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "biffex"
+    ]
+}

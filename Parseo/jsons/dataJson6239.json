@@ -1,0 +1,23 @@
+{
+    "DATE": "17-MAR-1987 15:40:29.80",
+    "TOPICS": [
+        "wheat",
+        "corn"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "6239",
+    "TEXT": {
+        "TITLE": "USDA REPORTS 350,000 TONNES CORN TO UNKNOWN",
+        "DATELINE": "    WASHINGTON, March 17 - ",
+        "BODY": "The U.S. Agriculture Department said\nprivate U.S. exporters reported sales of 350,000 tonnes of corn\nfor delivery to unknown destinations during the 1986/87\nmarketing season.\n    The marketing year for corn began September 1.\n    This is the second day running that exporters have reported\ncorn sales to unknown destinations. Yesterday, they reported\nsales of 150,000 tonnes to unknown.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "opec",
+        "oapec"
+    ],
+    "PEOPLE": [
+        "herrington"
+    ]
+}

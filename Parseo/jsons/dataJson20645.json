@@ -1,0 +1,30 @@
+{
+    "DATE": "20-OCT-1987 15:35:20.92",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat",
+        "oilseed",
+        "soybean"
+    ],
+    "PLACES": [
+        "usa",
+        "ussr"
+    ],
+    "NEWID": "20645",
+    "TEXT": {
+        "TITLE": "USDA REPORTS CORN SOLD TO USSR",
+        "DATELINE": "    WASHINGTON, Oct 20 - ",
+        "BODY": "Private exporters reported sales of\n125,000 tonnes of U.S. corn to the Soviet Union for delivery\nduring the 1987/88 season and under the fifth year of the Long\nTerm Grain Supply Agreement.\n    The department noted the sales are the first reported for\ndelivery during the fifth year of the Agreement, which began\nOctober 1, 1987.\n    Sales of wheat and corn to the USSR for delivery during the\nfourth year of the agreement totaled 8,182,500 tonnes --\n4,080,500 tonnes of wheat and 4,102,300 tonnes of corn. In\naddition, sales of soybeans totaled 68,200 tonnes, it said.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "james-baker",
+        "stoltenberg"
+    ],
+    "EXCHENGES": [
+        "comex"
+    ]
+}

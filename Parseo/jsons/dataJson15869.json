@@ -1,0 +1,27 @@
+{
+    "DATE": " 9-APR-1987 15:17:29.74",
+    "TOPICS": [
+        "grain",
+        "wheat"
+    ],
+    "PLACES": [
+        "usa",
+        "china"
+    ],
+    "NEWID": "15869",
+    "TEXT": {
+        "TITLE": "USDA ESTIMATES CHINA WHEAT",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\nprojected China's 1986/87 wheat crop at 90.30 mln tonnes, vs\n88.50 mln tonnes last month. It estimated the 1985/86 crop at\n85.81 mln tonnes, vs 85.81 mln last month.\n    USDA projected China's 1986/87 wheat imports at 7.00 mln\ntonnes, vs 7.00 mln tonnes last month, and estimated 1985/86\nimports at 6.60 mln tonnes, vs 6.60 mln last month.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "itc",
+        "atpc"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

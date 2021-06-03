@@ -1,0 +1,25 @@
+{
+    "DATE": "13-APR-1987 09:14:42.18",
+    "TOPICS": [
+        "f-cattle",
+        "livestock"
+    ],
+    "NEWID": "16236",
+    "TEXT": {
+        "TITLE": "U.S. FEEDER STEER PRICE",
+        "DATELINE": "    Chicago, April 13 - ",
+        "BODY": "The U.S. Feeder Steer Price, or USFSP,\nas posted by the CME is calculated by Cattle Fax and represents\nthe price used for cash settlement of the CME Feeder Cattle\ncontract.\n    The USFSP is a seven-calendar-day average of feeder steer\nprices from 27 states, based on auction and direct country\nsales for feeder steers that weigh between 600 and 800 lbs and\nare estimated to grade between 60 and 80 pct choice when fed to\nslaughter weight.\n    April 9         Previous quote\n    70.03             69.87\n Reuter\n\u0003"
+    },
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "cavaco-silva"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

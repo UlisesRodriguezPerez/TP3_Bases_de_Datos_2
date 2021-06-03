@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 11:34:52.84",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18743",
+    "TEXT": {
+        "TITLE": "PETRO-CANADA RAISES CRUDE POSTINGS 32 CTS CANADIAN/BBL.\nSWEET CRUDE AT 25.60 DLRS CANADIAN/BBL.\n"
+    },
+    "ORGS": [
+        "ec",
+        "gatt",
+        "fao"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

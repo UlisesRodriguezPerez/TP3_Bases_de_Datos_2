@@ -1,0 +1,24 @@
+{
+    "DATE": "18-JUN-1987 12:53:43.91",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18824",
+    "TEXT": {
+        "TITLE": "DUPONT UNIT RAISES CRUDE OIL POSTINGS 50 CTS/BBL,\nEFFECTIVE YESTERDAY\n"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

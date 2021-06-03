@@ -1,0 +1,27 @@
+{
+    "DATE": "18-JUN-1987 10:52:41.43",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa",
+        "canada"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18698",
+    "TEXT": {
+        "TITLE": "IMPERIAL OIL <IMO.A> RAISES CRUDE 32 CANADIAN CTS",
+        "DATELINE": "    NEW YORK, June 18 - ",
+        "BODY": "Canadian Imperial Oil, 70 pct Exxon\nowned, said it raised its posting for light sweet crude oil at\nEdmonton by 32 canadian cts a barrel, effective today.\n    The company said its new posting for light sweet crude oil\nat Edmonton is 25.60 canadian dlrs a barrel.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 04:21:34.85",
+    "TOPICS": [
+        "earn"
+    ],
+    "PLACES": [
+        "uk"
+    ],
+    "PEOPLE": [
+        "keating"
+    ],
+    "NEWID": "18497",
+    "TEXT": {
+        "TITLE": "JOHNSON MATTHEY RAISE PRETAX PROFITS BY 67.8 PCT",
+        "DATELINE": "    LONDON, June 18 - ",
+        "BODY": "Year to March 31\n    Fin div 3.5p making 5.5p vs 2.5p\n    Shr 25.2p vs 14.7p\n    Pretax profit 50.5 mln stg vs 30.1 mln\n    Net after tax 36.0 mln vs 21.6 mln\n    Turnover 1.22 billion vs 1.16 billion\n    Extraordinary dbt 10.3 mln vs 8.2 mln\n    Note - Full company name is <Johnson-Matthey Plc>.\n REUTER\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

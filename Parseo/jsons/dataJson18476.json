@@ -1,0 +1,30 @@
+{
+    "DATE": "18-JUN-1987 03:04:23.55",
+    "TOPICS": [
+        "acq"
+    ],
+    "PLACES": [
+        "usa",
+        "singapore",
+        "japan",
+        "west-germany",
+        "australia",
+        "canada",
+        "new-zealand"
+    ],
+    "PEOPLE": [
+        "keating"
+    ],
+    "NEWID": "18476",
+    "TEXT": {
+        "TITLE": "HONG KONG'S DAIRY FARM SAYS IT BIDS FOR 22 PCT OF KWIK\nSAVE FOR 146.6 MLN STG\n"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

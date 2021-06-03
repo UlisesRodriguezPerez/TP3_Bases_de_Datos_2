@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 10:56:24.69",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "netherlands"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18701",
+    "TEXT": {
+        "TITLE": "DIAMOND SHAMROCK RAISES CRUDE OIL POSTED PRICES 50 CTS\nA BBL, EFFECTIVE YESTERDAY, WTI TO 19 DLRS.\n"
+    },
+    "ORGS": [
+        "ec",
+        "gatt",
+        "fao"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

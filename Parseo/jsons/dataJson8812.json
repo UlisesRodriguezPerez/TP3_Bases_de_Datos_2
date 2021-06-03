@@ -1,0 +1,23 @@
+{
+    "DATE": "24-MAR-1987 11:22:53.44",
+    "TOPICS": [
+        "crude",
+        "nat-gas"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "8812",
+    "TEXT": {
+        "TITLE": "U.S. SUPREME COURT ALLOWS OFFSHORE ALASKAN OIL AND GAS EXPLORATION\n"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "herrington"
+    ]
+}

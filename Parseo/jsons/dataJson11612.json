@@ -1,0 +1,25 @@
+{
+    "DATE": "31-MAR-1987 15:02:49.09",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "oilseed",
+        "soybean"
+    ],
+    "NEWID": "11612",
+    "TEXT": {
+        "TITLE": "USDA PUTS MARCH 1 U.S. CORN STOCKS AT  8,246,849,000 BU, SOYBEANS - 1,384,208,000\n"
+    },
+    "PLACES": [
+        "canada"
+    ],
+    "PEOPLE": [
+        "james-baker"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ]
+}

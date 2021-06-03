@@ -1,0 +1,24 @@
+{
+    "DATE": "18-JUN-1987 11:39:59.53",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18747",
+    "TEXT": {
+        "TITLE": "MARATHON RAISES CRUDE OIL POSTINGS 50 CTS/BBL, WTI NOW\n19.00 DLRS.\n"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

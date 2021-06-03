@@ -1,0 +1,26 @@
+{
+    "DATE": " 9-APR-1987 15:58:20.54",
+    "TOPICS": [
+        "grain",
+        "rice"
+    ],
+    "PLACES": [
+        "usa",
+        "thailand"
+    ],
+    "NEWID": "15928",
+    "TEXT": {
+        "TITLE": "RICE SUPPLY/DEMAND FOR THAILAND -- USDA",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\ndetailed rice supply/demand milled-basis data for Thailand, the\nworld's major rice exporter, as follows in mln tonnes --       \n        1986/87            1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  1.32   1.33       1.46   1.46\n Production  11.88  12.14      13.00  13.00\n Imports       NIL    NIL        NIL    NIL\n Domes Use    8.73   8.73       8.80   8.80\n Exports      3.70   3.70       4.34   4.34\n End Stocks   0.77   1.04       1.32   1.33\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

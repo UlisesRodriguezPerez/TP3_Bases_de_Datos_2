@@ -1,0 +1,30 @@
+{
+    "DATE": "18-JUN-1987 08:44:00.21",
+    "TOPICS": [
+        "veg-oil"
+    ],
+    "PLACES": [
+        "luxembourg",
+        "uk",
+        "netherlands",
+        "west-germany",
+        "denmark"
+    ],
+    "PEOPLE": [
+        "keating"
+    ],
+    "NEWID": "18599",
+    "TEXT": {
+        "TITLE": "RPT - OPPOSITION TO EC OILS TAX INTACT - MINISTER",
+        "DATELINE": "    LUXEMBOURG, June 17 - ",
+        "BODY": "A minority group of European\nCommunity countries strong enough to block the adoption of a\ntax on vegetable and marine oils and fats is still intact after\nthe EC Commission proposed changes to its proposals earlier\ntoday, British agriculture minister John MacGregor told\njournalists.\n    He said Britain, West Germany, the Netherlands and Denmark\ncontinue to oppose the tax after the Commission proposed making\nit temporary and promising compensation to any third countries\nwhose exports suffered.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

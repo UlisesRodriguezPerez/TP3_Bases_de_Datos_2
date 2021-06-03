@@ -1,0 +1,28 @@
+{
+    "DATE": "18-JUN-1987 15:19:04.34",
+    "TOPICS": [
+        "grain",
+        "corn"
+    ],
+    "PLACES": [
+        "usa",
+        "china"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18954",
+    "TEXT": {
+        "TITLE": "CHINA ADDS CORN TO COMMITMENTS - USDA",
+        "DATELINE": "    WASHINGTON, June 18 - ",
+        "BODY": "China has added 30,000 tonnes of U.S.\ncorn to its previous commitments, according to the U.S.\nAgriculture Department's latest Export Sales report.\n    The report, covering transactions in the week June 11, the\nadditional corn resulted from changes in destinations.\n    Total corn commitments for delivery in the 1986/87 season\namount to 1,083,400 tonnes.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "itc"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

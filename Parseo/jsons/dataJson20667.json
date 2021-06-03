@@ -1,0 +1,25 @@
+{
+    "DATE": "20-OCT-1987 15:47:56.78",
+    "TOPICS": [
+        "acq"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "20667",
+    "TEXT": {
+        "TITLE": "AMEX SAYS BEAR STEARNS BOUGHT SPECIALIST UNIT",
+        "DATELINE": "    NEW YORK, Oct. 20 - ",
+        "BODY": "The American Stock Exchange said, as\npreviously reported, that Bear Stearns and Co <BSC> has\npurchased <W. Damm, M. Frank and Co>, a specialist unit on the\nAmex trading floor.\n    Amex said the unit, which trades stocks and options is\nsmall in comparison to other specialist units. The personel and\noperations remain the same, the exchange added.\n    The price was not disclosed.\n    A specialist unit is authorized by a stock exchange to deal\nas an agent for other brokers to keep a stable market in one or\nmore particular stocks.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "james-baker",
+        "stoltenberg"
+    ],
+    "EXCHENGES": [
+        "amex"
+    ]
+}

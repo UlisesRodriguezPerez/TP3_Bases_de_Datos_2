@@ -1,0 +1,26 @@
+{
+    "DATE": " 9-APR-1987 15:56:23.44",
+    "TOPICS": [
+        "meal-feed",
+        "soy-meal"
+    ],
+    "PLACES": [
+        "usa",
+        "argentina"
+    ],
+    "NEWID": "15922",
+    "TEXT": {
+        "TITLE": "SOYBEAN MEAL SUPPLY/DEMAND BY COUNTRY -- USDA",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The U.S. Agriculture Department\ndetailed world supply/demand data for major importers and\nexporters of soybean meal, by country, as follows in mln tonnes\n--\n    ARGENTINA SOYBEAN MEAL --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.13   0.13      0.19   0.19\n Production   3.67   3.67      3.49   3.49\n Imports       NIL    NIL       NIL    NIL\n Domes Use    0.35   0.35      0.35   0.35\n Exports      3.30   3.30      3.20   3.20\n End Stocks   0.15   0.15      0.13   0.13\n    BRAZIL SOYBEAN MEAL, in mln tonnes --\n               1986/87           1985/86\n          04/09/87 03/09/87  04/09/87 03/09/87\n Start Stcks  0.61   0.60      0.72   0.72\n Production  10.40  10.39      9.69   9.66\n Imports       NIL    NIL       NIL    NIL\n Domes Use    2.55   2.55      2.41   2.40\n Exports      7.85   7.85      7.38   7.38\n End Stocks   0.61   0.59      0.61   0.60\n    EC-12 SOYBEAN MEAL, in mln tonnes --\n                1986/87            1985/86\n           04/09/87 03/09/86  04/09/87 03/09/87\n Start Stcks   0.40   0.40       0.44   0.44\n Production   10.44  10.45      10.18  10.17\n Imports      13.03  13.03      13.48  13.48\n Domes Use    18.50  18.49      18.59  18.57\n Exports       5.07   5.09       5.10   5.11\n End Stocks    0.30   0.30       0.40   0.40\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

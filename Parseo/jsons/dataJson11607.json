@@ -1,0 +1,25 @@
+{
+    "DATE": "31-MAR-1987 15:01:53.95",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "oilseed",
+        "soybean"
+    ],
+    "NEWID": "11607",
+    "TEXT": {
+        "TITLE": "U.S. 1987 CORN, SOYBEAN ACREAGE ESTIMATES  CORN 67,556,000 ACRES, BEANS 56,885,000 - USDA\n"
+    },
+    "PLACES": [
+        "canada"
+    ],
+    "PEOPLE": [
+        "james-baker"
+    ],
+    "ORGS": [
+        "ec"
+    ],
+    "EXCHENGES": [
+        "nycsce"
+    ]
+}

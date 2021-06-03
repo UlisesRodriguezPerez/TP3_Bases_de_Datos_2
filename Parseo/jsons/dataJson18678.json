@@ -1,0 +1,26 @@
+{
+    "DATE": "18-JUN-1987 10:20:21.53",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa",
+        "indonesia",
+        "turkey"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18678",
+    "TEXT": {
+        "TITLE": "IMPERIAL OIL RAISES CRUDE OIL POSTINGS 32 CANADIAN\nCTS/BBL, LIGHT SWEET NOW 25.60\n\n"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

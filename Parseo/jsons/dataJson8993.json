@@ -1,0 +1,27 @@
+{
+    "DATE": "24-MAR-1987 15:49:45.12",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat"
+    ],
+    "PLACES": [
+        "usa",
+        "ussr"
+    ],
+    "NEWID": "8993",
+    "TEXT": {
+        "TITLE": "USDA REPORTS CORN SWITCHED TO USSR",
+        "DATELINE": "    WASHINGTON, March 24 - ",
+        "BODY": "The U.S. Agriculture Department said\nprivate U.S. exporters reported 200,000 tonnes of corn\npreviously to unknown destinations have been switched to the\nSoviet Union.\n    The corn is for delivery during the 1986/87 marketing year\nand under the fourth year of the U.S.-USSR Long Term Grain\nSupply Agreement.\n    The marketing year for began September 1.\n    Sales of corn to the USSR for delivery during the fourth\nyear of the agreement -- which began October 1, 1986 -- now\ntotal 2,600,000  tonnes, it said.\n    In the third agreement year sales totaled 6,960,700 tonnes\n-- 152,600 tonnes of wheat and 6,808,100 tonnes of corn.\n Reuter\n\u0003"
+    },
+    "EXCHENGES": [
+        "cme"
+    ],
+    "ORGS": [
+        "icco"
+    ],
+    "PEOPLE": [
+        "herrington"
+    ]
+}

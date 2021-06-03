@@ -1,0 +1,33 @@
+{
+    "DATE": " 9-APR-1987 15:28:36.43",
+    "TOPICS": [
+        "grain",
+        "oilseed",
+        "meal-feed",
+        "veg-oil",
+        "wheat",
+        "corn",
+        "soybean",
+        "soy-oil",
+        "soy-meal",
+        "cotton"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "15890",
+    "TEXT": {
+        "TITLE": "SEASONAL EXPORTS REPORTED BY U.S. EXPORTERS",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "Exports of the following commodities\nbetween start of current seasons and April 2, with comparisons,\nas reported to USDA by exporters, in thousand tonnes, unless\nnoted --\n               4/2/87    Prev Wk   4/3/86\n Wheat        21,044.6  20,398.3  19,725.8\n Soybeans     14,334.2  14,063.5  14,698.4\n Corn         20,296.0  19,194.6  25,182.6-x\n Sorghum       3,222.5   3,149.7   3,168.9-x\n Soybean Oil     138.4     135.8     179.9\n Soybean Meal  4,098.0   3,880.6   3,141.3\n Cotton        4,333.1   4,204.7   1,510.4\n X-2,059,300 tonnes of corn and 763,800 tonnes of sorghum added\nto reflect change in marketing year to Sept-Aug.\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "ec"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

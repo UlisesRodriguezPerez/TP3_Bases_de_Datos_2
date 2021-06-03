@@ -1,0 +1,29 @@
+{
+    "DATE": " 9-APR-1987 10:21:12.37",
+    "TOPICS": [
+        "interest"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "15560",
+    "TEXT": {
+        "TITLE": "FHLBB CHANGES SHORT-TERM DISCOUNT NOTE RATES",
+        "DATELINE": "    WASHINGTON, April 9 - ",
+        "BODY": "The Federal Home Loan Bank Board\nadjusted the rates on its short-term discount notes as follows:\n    MATURITY   NEW RATE  OLD RATE  MATURITY\n  30-174 days  5.00 pct  5.00 pct    30-87 days\n 175-190 days  5.85 pct  5.82 pct   88-103 days\n 191-270 days  5.00 pct  5.00 pct  104-179 days\n 271-288 days  5.92 pct  5.85 pct  180-205 days\n 289-360 days  5.00 pct  5.00 pct  206-360 days\n                       \n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "imf",
+        "worldbank"
+    ],
+    "PEOPLE": [
+        "james-baker",
+        "miyazawa",
+        "stoltenberg",
+        "volcker",
+        "wilson"
+    ],
+    "EXCHENGES": [
+        "lme"
+    ]
+}

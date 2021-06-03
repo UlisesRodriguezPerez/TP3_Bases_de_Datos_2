@@ -1,0 +1,27 @@
+{
+    "DATE": " 9-APR-1987 15:10:21.59",
+    "TOPICS": [
+        "grain",
+        "corn",
+        "wheat"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "NEWID": "15860",
+    "TEXT": {
+        "TITLE": "USDA DETAILS FREE GRAIN STOCKS UNDER LOAN",
+        "DATELINE": "    Washington, April 9 - ",
+        "BODY": "The U.S. Agriculture Department gave\nprojected carryover free stocks of feedgrains, corn and wheat\nunder loans, with comparisons, as follows, in mln bushels,\nexcept feedgrains, which is in mln tonnes --\n                1986/87            1985/86\n           04/09/87 03/09/87  04/09/87 03/09/87\n Under Regular Nine Month Loan --\n      WHEAT    225     300       678     678\n FEEDGRAINS   52.1    68.1      75.7    75.7\n       CORN  1,800   2,400     2,589   2,589\n Special Producer Storage Loan Program --\n      WHEAT    165     150       163     163\n FEEDGRAINS    7.0     6.7       5.3     5.3\n       CORN    200     200       147     147\n Reuter\n\u0003"
+    },
+    "ORGS": [
+        "itc",
+        "atpc"
+    ],
+    "PEOPLE": [
+        "balladur"
+    ],
+    "EXCHENGES": [
+        "nyce"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "DATE": "18-JUN-1987 09:45:12.75",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18655",
+    "TEXT": {
+        "TITLE": "SHELL CANADA RAISES CRUDE OIL POSTING 32 CANADIAN CTS/BBL\n"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}

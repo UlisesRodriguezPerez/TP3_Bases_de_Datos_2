@@ -1,0 +1,25 @@
+{
+    "DATE": "18-JUN-1987 10:45:42.02",
+    "TOPICS": [
+        "crude"
+    ],
+    "PLACES": [
+        "usa",
+        "canada"
+    ],
+    "PEOPLE": [
+        "douglas"
+    ],
+    "NEWID": "18692",
+    "TEXT": {
+        "TITLE": "UNION PACIFIC RAISES CRUDE OIL POSTINGS 50 CTS\nA BBL, EFFECTIVE YESTERDAY, WTI TO 19 DLRS.\n"
+    },
+    "ORGS": [
+        "opec"
+    ],
+    "EXCHENGES": [
+        "cme",
+        "comex",
+        "cbt"
+    ]
+}
