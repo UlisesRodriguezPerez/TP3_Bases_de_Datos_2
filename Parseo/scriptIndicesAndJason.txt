@@ -1,0 +1,12 @@
+db.reuterCollection.createIndex({"TEXT.BODY":"text","TEXT.TITLE":"text"})
+db.reuterCollection.ensureIndex({"TOPICS":1})
+db.reuterCollection.ensureIndex({"PLACES":1})
+db.reuterCollection.ensureIndex({"PEOPLE":1})
+db.reuterCollection.ensureIndex({"ORGS":1})
+db.reuterCollection.ensureIndex({"EXCHANGES":1})
+
+  --comandoUsado para importar el Json en mongo.
+mongoimport --db=prueba --collection=pcollection --file="C:\Users\ulirp\OneDrive - Estudiantes ITCR\Cursos TEC\Primer Semestre 2021\Bases de atos II\Proyectos\TPR3\2021-1 TP3 - Noticias Reuters - MongoDB\Parseo\jsonMiedo2.json"
+
+
+

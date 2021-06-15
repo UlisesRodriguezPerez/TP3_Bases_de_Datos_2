@@ -1,0 +1,461 @@
+db.reutersCollection.find({$text:{$search:"\"colombia\"   \"coffee\""}},{"NEWID":1,TEXT:{"TITLE":1},"_id":0})
+//////////// coffee and colombia.
+
+/* 1 */
+{
+    "NEWID" : "19387",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA HELPFUL BUT COFFEE QUOTAS UNCERTAIN--U.S."
+    }
+}
+
+/* 2 */
+{
+    "NEWID" : "875",
+    "TEXT" : {
+        "TITLE" : "COFFEE TRADERS EXPECT SELLOFF AFTER ICO TALKS FAIL"
+    }
+}
+
+/* 3 */
+{
+    "NEWID" : "232",
+    "TEXT" : {
+        "TITLE" : "PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS"
+    }
+}
+
+/* 4 */
+{
+    "NEWID" : "19318",
+    "TEXT" : {
+        "TITLE" : "EUROPEAN COFFEE TRADE PROPOSES NEW QUOTA FORMULA"
+    }
+}
+
+/* 5 */
+{
+    "NEWID" : "10100",
+    "TEXT" : {
+        "TITLE" : "CARDENAS SEES NO MAJOR DECISIONS AT ICO MEETING"
+    }
+}
+
+/* 6 */
+{
+    "NEWID" : "1579",
+    "TEXT" : {
+        "TITLE" : "COFFEE TALKS FAILURE SEEN PRESSURING U.S."
+    }
+}
+
+/* 7 */
+{
+    "NEWID" : "5471",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA COFFEE EXPORTERS BELIEVE IN PRAGMATISM"
+    }
+}
+
+/* 8 */
+{
+    "NEWID" : "7124",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA WILL NOT ATTEND MANAGUA COFFEE MEETING"
+    }
+}
+
+/* 9 */
+{
+    "NEWID" : "4603",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA'S COFFEE MARKETING TO BE MORE FLEXIBLE"
+    }
+}
+
+/* 10 */
+{
+    "NEWID" : "5134",
+    "TEXT" : {
+        "TITLE" : "NO HEAVY COFFEE EXPORT IMPLIED-COLOMBIA OFFICIAL"
+    }
+}
+
+/* 11 */
+{
+    "NEWID" : "8903",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA COFFEE REVENUE SHARPLY DOWN IN JAN/FEB"
+    }
+}
+
+/* 12 */
+{
+    "NEWID" : "12011",
+    "TEXT" : {
+        "TITLE" : "ICO QUOTAS BEFORE OCTOBER UNLIKELY - DELEGATES"
+    }
+}
+
+/* 13 */
+{
+    "NEWID" : "2115",
+    "TEXT" : {
+        "TITLE" : "BRAZIL HAS NO SET COFFEE EXPORT TARGETS - IBC"
+    }
+}
+
+/* 14 */
+{
+    "NEWID" : "10902",
+    "TEXT" : {
+        "TITLE" : "ICO BOARD SEEN UNLIKELY TO SET NEW COFFEE TALKS"
+    }
+}
+
+/* 15 */
+{
+    "NEWID" : "2606",
+    "TEXT" : {
+        "TITLE" : "ICO QUOTA TALKS FAILURE PARALYSE HAMBURG MARKET"
+    }
+}
+
+/* 16 */
+{
+    "NEWID" : "1715",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA BLASTS U.S. FOR COFFEE TALKS FAILURE"
+    }
+}
+
+/* 17 */
+{
+    "NEWID" : "1212",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA TRADERS SAY NEW COFFEE STRATEGY VITAL"
+    }
+}
+
+/* 18 */
+{
+    "NEWID" : "15737",
+    "TEXT" : {
+        "TITLE" : "EXPORTS OTHER THAN COFFEE RISE SHARPLY IN COLOMBIA"
+    }
+}
+
+/* 19 */
+{
+    "NEWID" : "4071",
+    "TEXT" : {
+        "TITLE" : "INDONESIA PRESSING FOR COMPROMISE OVER COFFEE"
+    }
+}
+
+/* 20 */
+{
+    "NEWID" : "11372",
+    "TEXT" : {
+        "TITLE" : "GUATEMALA TO HOST OTHER MILDS COFFEE MEETING"
+    }
+}
+
+/* 21 */
+{
+    "NEWID" : "2467",
+    "TEXT" : {
+        "TITLE" : "COFFEE FALL NOT SEEN AFFECTING COLOMBIA'S DEBT"
+    }
+}
+
+/* 22 */
+{
+    "NEWID" : "6912",
+    "TEXT" : {
+        "TITLE" : "IBC PRESIDENT TO ATTEND MANAGUA COFFEE MEETING"
+    }
+}
+
+/* 23 */
+{
+    "NEWID" : "5002",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA OPENS APRIL/MAY COFFEE REGISTRATIONS"
+    }
+}
+
+/* 24 */
+{
+    "NEWID" : "15198",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA BUSINESS ASKED TO DIVERSIFY FROM COFFEE"
+    }
+}
+
+/* 25 */
+{
+    "NEWID" : "7406",
+    "TEXT" : {
+        "TITLE" : "LATIN COFFEE PRODUCERS SEEK ICO PRICE SUPPORT"
+    }
+}
+
+/* 26 */
+{
+    "NEWID" : "15725",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA JAN EXPORTS UP BUT COFFEE VALUES FALL"
+    }
+}
+
+/* 27 */
+{
+    "NEWID" : "1880",
+    "TEXT" : {
+        "TITLE" : "COFFEE PRICE DROP NOT AFFECTING COLOMBIA'S DEBT"
+    }
+}
+
+/* 28 */
+{
+    "NEWID" : "2954",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA DENIES SELLING COFFEE BELOW MARKET"
+    }
+}
+
+/* 29 */
+{
+    "NEWID" : "16279",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA JUNE COFFEE REGISTRATIONS OPENED"
+    }
+}
+
+/* 30 */
+{
+    "NEWID" : "6632",
+    "TEXT" : {
+        "TITLE" : "LATIN COFFEE MEETING TO BE HELD IN MANAGUA"
+    }
+}
+
+/* 31 */
+{
+    "NEWID" : "12814",
+    "TEXT" : {
+        "TITLE" : "DUTCH GREEN COFFEE IMPORTS FALL IN JANUARY"
+    }
+}
+
+/* 32 */
+{
+    "NEWID" : "15329",
+    "TEXT" : {
+        "TITLE" : "COFFEE COULD DROP TO 70/80 CTS, CARDENAS SAYS"
+    }
+}
+
+/* 33 */
+{
+    "NEWID" : "12689",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA COFFEE CHIEF WELCOMES BRAZIL MEASURES"
+    }
+}
+
+/* 34 */
+{
+    "NEWID" : "402",
+    "TEXT" : {
+        "TITLE" : "COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET"
+    }
+}
+
+/* 35 */
+{
+    "NEWID" : "290",
+    "TEXT" : {
+        "TITLE" : "ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON"
+    }
+}
+
+/* 36 */
+{
+    "NEWID" : "13516",
+    "TEXT" : {
+        "TITLE" : "LONDON COFFEE HOLDS SMALL GAINS AT MIDMORNING"
+    }
+}
+
+/* 37 */
+{
+    "NEWID" : "6595",
+    "TEXT" : {
+        "TITLE" : "N.Y. TRADERS SAY LATIN COFFEE PRODUCERS TO MEET"
+    }
+}
+
+/* 38 */
+{
+    "NEWID" : "15357",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA COFFEE REGISTRATIONS REMAIN OPEN"
+    }
+}
+
+/* 39 */
+{
+    "NEWID" : "12490",
+    "TEXT" : {
+        "TITLE" : "OTHER MILDS COFFEE PRODUCERS TO MEET MAY 4"
+    }
+}
+
+/* 40 */
+{
+    "NEWID" : "8193",
+    "TEXT" : {
+        "TITLE" : "GOOD DEMAND FOR COLOMBIANS ON BREMEN MARKET"
+    }
+}
+
+/* 41 */
+{
+    "NEWID" : "14372",
+    "TEXT" : {
+        "TITLE" : "COCOA/COFFEE/SUGAR TRADE NEWS/MARKET COMMENT"
+    }
+}
+
+/* 42 */
+{
+    "NEWID" : "4564",
+    "TEXT" : {
+        "TITLE" : "LIVE CATTLE RALLY AS LOCKOUT AT MEAT PLANT ENDS"
+    }
+}
+
+/* 43 */
+{
+    "NEWID" : "21177",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA OPENS COFFEE REGISTRATIONS - LDN TRADE"
+    }
+}
+
+/* 44 */
+{
+    "NEWID" : "14606",
+    "TEXT" : {
+        "TITLE" : "N.Y. PHYSICAL COFFEE MARKET SEES LIGHT BUSINESS"
+    }
+}
+
+/* 45 */
+{
+    "NEWID" : "562",
+    "TEXT" : {
+        "TITLE" : "ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE"
+    }
+}
+
+/* 46 */
+{
+    "NEWID" : "9655",
+    "TEXT" : {
+        "TITLE" : "COLOMBIA TO MAINTAIN FOREIGN BORROWING LEVELS"
+    }
+}
+
+/* 47 */
+{
+    "NEWID" : "7589",
+    "TEXT" : {
+        "TITLE" : "BRAZIL SEEN AS VANGUARD FOR CHANGING DEBT STRATEGY"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+db.reutersCollection.find({"TOPICS":"sugar","PLACES":"indonesia"},{"NEWID":1,TEXT:{"TITLE":1},"_id":0})
+//////////// sugar and INDONESIA
+/* 1 */
+{
+    "NEWID" : "235",
+    "TEXT" : {
+        "TITLE" : "INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW"
+    }
+}
+
+/* 2 */
+{
+    "NEWID" : "259",
+    "TEXT" : {
+        "TITLE" : "INDONESIAN SUGAR OUTPUT SEEN SHORT OF TARGET"
+    }
+}
+
+/* 3 */
+{
+    "NEWID" : "5835",
+    "TEXT" : {
+        "TITLE" : "INDONESIAN SUGAR OUTPUT FORECAST TO RISE IN 1987"
+    }
+}
+
+/* 4 */
+{
+    "NEWID" : "7545",
+    "TEXT" : {
+        "TITLE" : "ECONOMIC SPOTLIGHT - ASIAN DROUGHTS"
+    }
+}
+
+/* 5 */
+{
+    "NEWID" : "13286",
+    "TEXT" : {
+        "TITLE" : "INDONESIA IMPORTS 12,000 TONNES CUBAN SUGAR"
+    }
+}
+
+/* 6 */
+{
+    "NEWID" : "18459",
+    "TEXT" : {
+        "TITLE" : "INDONESIA SEEKS TO INCREASE SUGAR OUTPUT"
+    }
+}
+
+/* 7 */
+{
+    "NEWID" : "18609",
+    "TEXT" : {
+        "TITLE" : "INDONESIA REJECTS WORLD BANK FARM REFORM PROPOSALS"
+    }
+}
+
+/* 8 */
+{
+    "NEWID" : "18642",
+    "TEXT" : {
+        "TITLE" : "INDONESIA REJECTS WORLD BANK FARM REFORM IDEAS"
+    }
+}
